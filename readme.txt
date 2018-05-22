@@ -19,7 +19,7 @@ Steps:
 
 4.Extracting subject and object from this file :extracting_subject_object.py  input: short_abstracts_copy_tab.csv output:concatenated_sa.csv
 
-5.Creating a edge list with numbers as node labels : edgelist_from_graph.py input: concatenated_sa.csv output: edges.csv
+5.Creating an edge list with numbers as node labels : edgelist_from_graph.py input: concatenated_sa.csv output: edges.csv
 
 
 This edgelist will be the input for node-to-vec 
